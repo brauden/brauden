@@ -1,5 +1,19 @@
-I'm Dauren, a recent Duke Data Science graduate with 4+ years of experience in Data Science across various industries.
+### Intro
 
+I'm Dauren, a Duke Data Science graduate with over four years of experience in Data Science across multiple industries. My unconventional path to Data Science involved trying my hand at classical guitar and cucumber farming before discovering my passion for problem-solving through data. I'm committed to lifelong learning and continuously developing my skills. Outside of work, I enjoy playing guitar, singing, and boxing.
+
+### Notable Projects:
+
+1. [Prediction-churn reduction package](https://github.com/brauden/prediction-churn) with the implementation of Knowledge Distillation and Regress to Corrected Prediction methods for the PyTorch framework.
+
+2. [AWS ML pipeline](https://github.com/HarTigran/Finalproject) for finding similar cars in Craigslist by implementing CNN feature extraction model, AWS Lambda, AWS SQS, Streamlit, and FastAPI stack.
+
+3. [Estimating the impact of support team assisted response in Denver](https://github.com/MIDS-at-Duke/uds-2022-701-team-5) by employing difference-in-differences technique.
+
+### Next things to learn
+The next things I want to learn are Unity game engine for models animation, and AWS Kinesis for real-time data processing.
+
+### Other platforms
 [My LinkedIn profile](https://www.linkedin.com/in/dauren-bizhanov/), also I have my projects on [gitlab](https://gitlab.com/dauren.bizhanov).
 
 <!--
