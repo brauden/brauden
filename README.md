@@ -1,4 +1,6 @@
-### Hi there 👋
+I'm Dauren, a recent Duke Data Science graduate with 4+ years of experience in Data Science across various industries.
+
+[My LinkedIn profile](https://www.linkedin.com/in/dauren-bizhanov/), also I have my projects on [gitlab](https://gitlab.com/dauren.bizhanov).
 
 <!--
 **brauden/brauden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
