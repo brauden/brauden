@@ -1,6 +1,6 @@
 ### Intro
 
-I'm Dauren, a Duke Data Science graduate with over four years of experience in Data Science across multiple industries. My unconventional path to Data Science involved trying my hand at classical guitar and cucumber farming before discovering my passion for problem-solving through data. I'm committed to lifelong learning and continuously developing my skills. Outside of work, I enjoy playing guitar, singing, and boxing.
+I'm Dauren, a Duke Data Science graduate with over four years of experience in Data Science across multiple industries. My unconventional path to Data Science involved trying my hand at classical guitar and farming before discovering my passion for problem-solving through data. I'm committed to lifelong learning and continuously developing my skills. Outside of work, I enjoy playing guitar, singing, and boxing.
 
 ### Notable Projects
 
